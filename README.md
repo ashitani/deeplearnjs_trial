@@ -2,7 +2,7 @@
 
 This code trains a simple MLP which predicts the mathematical funciton y=exp(x).
 
-For the detail, see the Qiita Entry.
+For the detail, see the [Qiita Entry](https://qiita.com/ashitani/items/6907215f47de229cf6bc).
 
 # Usage
 
